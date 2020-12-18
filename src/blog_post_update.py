@@ -18,7 +18,7 @@ def update_readme_medium_posts(medium_feed, readme_base, join_on):
     posts_joined = '\n'.join(posts)
     return readme_base[:readme_base.find(rss_title)] + f"{join_on}\n{posts_joined}"
 
-rss_title = "### Stories by Essi on Medium" # Anchor for where to append posts
+rss_title = "## 📕 Latest Blog Posts" 
 readme = Path('../README.md').read_text()
 updated_readme = update_readme_medium_posts("https://medium.com/feed/@ealizadeh", readme, rss_title)
 with open('../README.md', "w+") as f:
