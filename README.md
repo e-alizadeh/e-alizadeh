@@ -22,15 +22,6 @@ Here are some ideas to get you started:
 
 ---
 ### 📕 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [A Guide to Metrics in Exploratory Data Analysis](https://towardsdatascience.com/a-guide-to-metrics-in-exploratory-data-analysis-250b33f72297?source=rss-35a932e89ec1------2)
-- [That’s a good question Vishal!](https://medium.com/@ealizadeh/thats-a-good-question-vishal-44241004099e?source=rss-35a932e89ec1------2)
-- [Neural Prophet: A Time-Series Modeling Library based on Neural-Networks](https://towardsdatascience.com/neural-prophet-a-time-series-modeling-library-based-on-neural-networks-dd02dc8d868d?source=rss-35a932e89ec1------2)
-- [15 Cognitive Errors Every Analyst Must Know](https://towardsdatascience.com/15-cognitive-errors-every-analyst-must-know-268540e34ade?source=rss-35a932e89ec1------2)
-- [3 Ways to Add Images to Your Jupyter Notebooks](https://medium.com/better-programming/3-ways-to-add-images-to-your-jupyter-notebook-61ddfa27e565?source=rss-35a932e89ec1------2)
-- [Synthetic Data Vault (SDV): A Python Library for Dataset Modeling](https://towardsdatascience.com/synthetic-data-vault-sdv-a-python-library-for-dataset-modeling-b48c406e7398?source=rss-35a932e89ec1------2)
-- [A Guide to Non-Minimum Phase Systems](https://towardsdatascience.com/a-guide-to-non-minimum-phase-systems-1403350917a0?source=rss-35a932e89ec1------2)
-<!-- BLOG-POST-LIST:END -->### Stories by Essi on Medium
  - [A Guide to Metrics in Exploratory Data Analysis](https://towardsdatascience.com/a-guide-to-metrics-in-exploratory-data-analysis-250b33f72297?source=rss-35a932e89ec1------2)
  - [That’s a good question Vishal!](https://medium.com/@ealizadeh/thats-a-good-question-vishal-44241004099e?source=rss-35a932e89ec1------2)
  - [Neural Prophet: A Time-Series Modeling Library based on Neural-Networks](https://towardsdatascience.com/neural-prophet-a-time-series-modeling-library-based-on-neural-networks-dd02dc8d868d?source=rss-35a932e89ec1------2)
@@ -39,5 +30,5 @@ Here are some ideas to get you started:
  - [Synthetic Data Vault (SDV): A Python Library for Dataset Modeling](https://towardsdatascience.com/synthetic-data-vault-sdv-a-python-library-for-dataset-modeling-b48c406e7398?source=rss-35a932e89ec1------2)
  - [A Guide to Non-Minimum Phase Systems](https://towardsdatascience.com/a-guide-to-non-minimum-phase-systems-1403350917a0?source=rss-35a932e89ec1------2)<hr>
 <div align="center">
-README.md last auto-generated Thu Dec 17 21:47:50 2020
+README.md last auto-generated Thu Dec 17 21:54:38 2020
 </div>
