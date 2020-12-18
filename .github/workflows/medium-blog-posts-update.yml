@@ -5,7 +5,13 @@ on:
     branches:
       - main
   schedule:
+<<<<<<< HEAD
     - cron: "0 22 * * *"
+=======
+    # Runs every sunday midnight
+    - cron: '0 * * * *'
+  workflow_dispatch:
+>>>>>>> f6c1f90717a3182800a0998bf1c0ea49180ace0e
 
 jobs:
   build-and-deploy:
@@ -14,6 +20,7 @@ jobs:
       - name: 🍽️ Get working copy
         uses: actions/checkout@master
         with:
+<<<<<<< HEAD
           fetch-depth: 1                                                                 
       - name: 🐍 Set up Python 3.8                               
         uses: actions/setup-python@v2                               
@@ -32,3 +39,7 @@ jobs:
           git add .
           git commit -am "feat(auto generate): Updated content"
           git push --all -f https://${{ secrets.GITHUB_TOKEN }}@github.com/${GITHUB_REPOSITORY}.git
+=======
+          max_post_count:  20
+          feed_list: "https://medium.com/feed/@ealizadeh"
+>>>>>>> f6c1f90717a3182800a0998bf1c0ea49180ace0e
