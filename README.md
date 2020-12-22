@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 
 ## Follow me here
-<a href="https://ealizadeh.com" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Personal%20Website-%2312100E.svg?&style=for-the-badge&logoColor=white" /></a>
-<a href="https://medium.com/@ealizadeh" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
+<a href="https://ealizadeh.com" target="_blank"><img alt="Personal Website" src="https://img.shields.io/badge/Personal%20Website-%2312100E.svg?&style=for-the-badge&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/alizadehesmaeil/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://medium.com/@ealizadeh" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
 <a href="https://twitter.com/intent/follow?screen_name=es_alizadeh&tw_p=followbutton" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
 
 ---
@@ -30,5 +30,5 @@ Here are some ideas to get you started:
  - [3 Ways to Add Images to Your Jupyter Notebooks](https://medium.com/better-programming/3-ways-to-add-images-to-your-jupyter-notebook-61ddfa27e565?source=rss-35a932e89ec1------2)
  - [Synthetic Data Vault (SDV): A Python Library for Dataset Modeling](https://towardsdatascience.com/synthetic-data-vault-sdv-a-python-library-for-dataset-modeling-b48c406e7398?source=rss-35a932e89ec1------2)<hr>
 <div align="center">
-README.md last auto-generated Mon Dec 21 23:46:33 2020
+README.md last auto-generated Mon Dec 21 19:41:34 2020
 </div>
