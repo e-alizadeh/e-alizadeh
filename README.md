@@ -34,5 +34,5 @@ I post frequently on on my personal website, and on medium. You can follow me on
  - [15 Cognitive Errors Every Analyst Must Know](https://towardsdatascience.com/15-cognitive-errors-every-analyst-must-know-268540e34ade?source=rss-35a932e89ec1------2)
  - [3 Ways to Add Images to Your Jupyter Notebooks](https://medium.com/better-programming/3-ways-to-add-images-to-your-jupyter-notebook-61ddfa27e565?source=rss-35a932e89ec1------2)<hr>
 <div align="center">
-README.md last auto-generated Sat Jan  2 23:45:23 2021
+README.md last auto-generated Tue Jan  5 23:49:38 2021
 </div>
