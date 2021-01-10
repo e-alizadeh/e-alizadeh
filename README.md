@@ -31,8 +31,7 @@ I post frequently on on my personal website, and on medium. You can follow me on
  - [MLxtend: A Python Library with interesting tools for data science tasks](https://towardsdatascience.com/mlxtend-a-python-library-with-interesting-tools-for-data-science-tasks-d54c723f89cd?source=rss-35a932e89ec1------2)
  - [A Guide to Metrics in Exploratory Data Analysis](https://towardsdatascience.com/a-guide-to-metrics-in-exploratory-data-analysis-250b33f72297?source=rss-35a932e89ec1------2)
  - [Neural Prophet: A Time-Series Modeling Library based on Neural-Networks](https://towardsdatascience.com/neural-prophet-a-time-series-modeling-library-based-on-neural-networks-dd02dc8d868d?source=rss-35a932e89ec1------2)
- - [15 Cognitive Errors Every Analyst Must Know](https://towardsdatascience.com/15-cognitive-errors-every-analyst-must-know-268540e34ade?source=rss-35a932e89ec1------2)
- - [3 Ways to Add Images to Your Jupyter Notebooks](https://medium.com/better-programming/3-ways-to-add-images-to-your-jupyter-notebook-61ddfa27e565?source=rss-35a932e89ec1------2)<hr>
+ - [15 Cognitive Errors Every Analyst Must Know](https://towardsdatascience.com/15-cognitive-errors-every-analyst-must-know-268540e34ade?source=rss-35a932e89ec1------2)<hr>
 <div align="center">
-README.md last auto-generated Tue Jan  5 23:49:38 2021
+README.md last auto-generated Sat Jan  9 23:54:42 2021
 </div>
