@@ -1,3 +1,5 @@
+![Build README](https://github.com/e-alizadeh/e-alizadeh/workflows/Build%20README/badge.svg)
+
 ### Hi there. I'm Essi 👋
 
 <!--
