@@ -31,10 +31,10 @@ I post frequently on my personal website, and on medium. You can follow me on:
 ---
 
 ## 📕 Latest Blog Posts
+ - [A Guide to Python Environment, Dependency and Package Management: Conda + Poetry](https://towardsdatascience.com/a-guide-to-python-environment-dependency-and-package-management-conda-poetry-f5a6c48d795?source=rss-35a932e89ec1------2)
  - [Data Distribution vs. Sampling Distribution: What You Need to Know](https://towardsdatascience.com/data-distribution-vs-sampling-distribution-what-you-need-to-know-294819109796?source=rss-35a932e89ec1------2)
  - [MLxtend: A Python Library with interesting tools for data science tasks](https://towardsdatascience.com/mlxtend-a-python-library-with-interesting-tools-for-data-science-tasks-d54c723f89cd?source=rss-35a932e89ec1------2)
- - [A Guide to Metrics in Exploratory Data Analysis](https://towardsdatascience.com/a-guide-to-metrics-in-exploratory-data-analysis-250b33f72297?source=rss-35a932e89ec1------2)
- - [Neural Prophet: A Time-Series Modeling Library based on Neural-Networks](https://towardsdatascience.com/neural-prophet-a-time-series-modeling-library-based-on-neural-networks-dd02dc8d868d?source=rss-35a932e89ec1------2)<hr>
+ - [A Guide to Metrics in Exploratory Data Analysis](https://towardsdatascience.com/a-guide-to-metrics-in-exploratory-data-analysis-250b33f72297?source=rss-35a932e89ec1------2)<hr>
 <div align="center">
-README.md last auto-generated Tue Jan 26 23:35:32 2021
+README.md last auto-generated Sat Jan 30 23:03:42 2021
 </div>
