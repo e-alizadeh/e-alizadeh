@@ -5,7 +5,6 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -17,8 +16,11 @@ Here are some ideas to get you started:
 
 #### 🌱 I'm in Permanent Beta who loves and enjoys learning, improving and evolving...
 
-## Follow me here
-I post frequently on on my personal website, and on medium. You can follow me on:
+- 🔭 I’m currently working on two Python packages [PyPocket](https://github.com/e-alizadeh/PyPocket) and [CallGraph4Py](https://github.com/e-alizadeh/pycallgraph).
+
+
+## 📫 How to reach me:
+I post frequently on my personal website, and on medium. You can follow me on:
 
 <a href="https://ealizadeh.com" target="_blank"><img alt="Personal Website" src="https://img.shields.io/badge/Personal%20Website-%2312100E.svg?&style=for-the-badge&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/alizadehesmaeil/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
