@@ -7,7 +7,7 @@ import feedparser
 RSS_FEED = "https://ealizadeh.com/feed"
 NUM_POST = 7
 READ_MORE_BADGE_URL = "https://img.shields.io/badge/-Read%20more%20on%20my%20blog-brightgreen?style=for-the-badge"
-READ_MORE_BADGE_MARKDOWN = f"[![]({READ_MORE_BADGE_URL})](https://ealizadeh.com/blog)"
+READ_MORE_BADGE_HTML = f'<a href="https://ealizadeh.com/blog" target="_blank"><img alt="Personal Blog" src="{READ_MORE_BADGE_URL}" /></a>'
 
 
 def update_footer():
@@ -39,7 +39,7 @@ if __name__ == "__main__":
     readme = Path("../README.md").read_text()
 
     updated_readme = update_latest_blog_posts_readme(RSS_FEED, readme, rss_title)
-    updated_readme += f"\n<space>\n \t {READ_MORE_BADGE_MARKDOWN}\n"
+    updated_readme += f"\n<space>\n \t {READ_MORE_BADGE_HTML}\n"
 
     with open("../README.md", "w+") as f:
         f.write(updated_readme + update_footer())
