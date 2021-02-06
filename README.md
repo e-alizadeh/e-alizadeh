@@ -33,9 +33,15 @@ I post frequently on my personal website, and on medium. You can follow me on:
 ---
 
 ## 📕 Latest Blog Posts
- - [A Guide to Python Environment, Dependency and Package Management: Conda + Poetry](https://towardsdatascience.com/a-guide-to-python-environment-dependency-and-package-management-conda-poetry-f5a6c48d795?source=rss-35a932e89ec1------2)
- - [Data Distribution vs. Sampling Distribution: What You Need to Know](https://towardsdatascience.com/data-distribution-vs-sampling-distribution-what-you-need-to-know-294819109796?source=rss-35a932e89ec1------2)
- - [MLxtend: A Python Library with interesting tools for data science tasks](https://towardsdatascience.com/mlxtend-a-python-library-with-interesting-tools-for-data-science-tasks-d54c723f89cd?source=rss-35a932e89ec1------2)<hr>
+ - [A Guide to Python Environment, Dependency and Package Management: Conda + Poetry](https://ealizadeh.com/blog/guide-to-python-env-pkg-dependency-using-conda-poetry/?utm_source=rss&utm_medium=rss&utm_campaign=guide-to-python-env-pkg-dependency-using-conda-poetry)
+ - [Data Distribution vs. Sampling Distribution: What You Need to Know](https://ealizadeh.com/blog/statistics-data-vs-sampling-distribution/?utm_source=rss&utm_medium=rss&utm_campaign=statistics-data-vs-sampling-distribution)
+ - [MLxtend: A Python Library with Interesting Tools for Data Science Tasks](https://ealizadeh.com/blog/mlxtend-library-for-data-science/?utm_source=rss&utm_medium=rss&utm_campaign=mlxtend-library-for-data-science)
+ - [A Guide to Metrics (Estimates) in Exploratory Data Analysis](https://ealizadeh.com/blog/guide-to-estimates-in-exploratory-data-analysis/?utm_source=rss&utm_medium=rss&utm_campaign=guide-to-estimates-in-exploratory-data-analysis)
+ - [NeuralProphet: A Time-Series Modeling Python Library based on Neural-Networks](https://ealizadeh.com/blog/neural-prophet-library/?utm_source=rss&utm_medium=rss&utm_campaign=neural-prophet-library)
+ - [15 Cognitive Errors Every Analyst Must Know (+ Network Graph View)](https://ealizadeh.com/blog/cognitive-errors-art-of-thinking-clearly/?utm_source=rss&utm_medium=rss&utm_campaign=cognitive-errors-art-of-thinking-clearly)
+<space>
+ 	 [![](https://img.shields.io/badge/-Read%20more%20on%20my%20blog-brightgreen?style=for-the-badge)](https://ealizadeh.com/blog)
+<hr>
 <div align="center">
-README.md last auto-generated Tue Feb  2 23:33:14 2021
+README.md last auto-generated Fri Feb  5 21:03:09 2021
 </div>
