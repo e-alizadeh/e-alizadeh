@@ -24,7 +24,7 @@ jobs:
       - name: 🍳 Update README
         run: |
           cd ${GITHUB_WORKSPACE}/src/
-          python blog_post_update.py
+          python update_latest_blog_posts.py
       - name: 🚀 Deploy
         run: |
           git config user.name "${GITHUB_ACTOR}"
