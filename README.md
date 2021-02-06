@@ -40,8 +40,8 @@ I post frequently on my personal website, and on medium. You can follow me on:
  - [NeuralProphet: A Time-Series Modeling Python Library based on Neural-Networks](https://ealizadeh.com/blog/neural-prophet-library/?utm_source=rss&utm_medium=rss&utm_campaign=neural-prophet-library)
  - [15 Cognitive Errors Every Analyst Must Know (+ Network Graph View)](https://ealizadeh.com/blog/cognitive-errors-art-of-thinking-clearly/?utm_source=rss&utm_medium=rss&utm_campaign=cognitive-errors-art-of-thinking-clearly)
 <space>
- 	 [![](https://img.shields.io/badge/-Read%20more%20on%20my%20blog-brightgreen?style=for-the-badge)](https://ealizadeh.com/blog)
+ 	 <a href="https://ealizadeh.com/blog" target="_blank"><img alt="Personal Blog" src="https://img.shields.io/badge/-Read%20more%20on%20my%20blog-brightgreen?style=for-the-badge" /></a>
 <hr>
 <div align="center">
-README.md last auto-generated Fri Feb  5 21:03:09 2021
+README.md last auto-generated Fri Feb  5 21:09:05 2021
 </div>
