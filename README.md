@@ -32,6 +32,7 @@ I post frequently on my personal website, and on medium. You can follow me on:
 
 #### 📝 Digital Garden
 You can check my raw notes below:
+
 <a href="https://notes.ealizadeh.com" target="_blank"><img alt="Notes" src="https://img.shields.io/badge/-digital%20notes-8672db?style=for-the-badge" /></a>
 
 ---
