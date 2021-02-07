@@ -21,7 +21,10 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on two Python packages [PyPocket](https://github.com/e-alizadeh/PyPocket) and [CallGraph4Py](https://github.com/e-alizadeh/pycallgraph).
 - 📝 I publish my raw notes (updated almost on a daily basis) in data science [here](https://publish.obsidian.md/ealizadeh/). 
 
+#### 📝 Digital Garden
+Check my raw notes: <a href="https://notes.ealizadeh.com" target="_blank"><img alt="Notes" src="https://img.shields.io/badge/-digital%20notes-8672db?style=for-the-badge" /></a>
 
+---
 ## 📫 How to reach me:
 I post frequently on my personal website, and on medium. You can follow me on:
 
@@ -29,11 +32,6 @@ I post frequently on my personal website, and on medium. You can follow me on:
 <a href="https://www.linkedin.com/in/alizadehesmaeil/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://medium.com/@ealizadeh" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
 <a href="https://twitter.com/intent/follow?screen_name=es_alizadeh&tw_p=followbutton" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
-
-#### 📝 Digital Garden
-You can check my raw notes below:
-
-<a href="https://notes.ealizadeh.com" target="_blank"><img alt="Notes" src="https://img.shields.io/badge/-digital%20notes-8672db?style=for-the-badge" /></a>
 
 ---
 
