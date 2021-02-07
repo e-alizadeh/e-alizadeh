@@ -30,6 +30,10 @@ I post frequently on my personal website, and on medium. You can follow me on:
 <a href="https://medium.com/@ealizadeh" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
 <a href="https://twitter.com/intent/follow?screen_name=es_alizadeh&tw_p=followbutton" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
 
+#### 📝 Digital Garden
+You can check my raw notes below:
+<a href="https://notes.ealizadeh.com" target="_blank"><img alt="Notes" src="https://img.shields.io/badge/-digital%20notes-8672db?style=for-the-badge" /></a>
+
 ---
 
 ## 📕 Latest Blog Posts
