@@ -34,17 +34,17 @@ I post frequently on my personal website, and on medium. You can follow me on:
 ---
 
 ## 📕 Latest Blog Posts
-https://ealizadeh.com/blog/how-to-publish-your-python-package-with-just-2-commands
-https://ealizadeh.com/blog/guide-to-python-env-pkg-dependency-using-conda-poetry
-https://ealizadeh.com/blog/statistics-data-vs-sampling-distribution
-https://ealizadeh.com/blog/mlxtend-library-for-data-science
-https://ealizadeh.com/blog/guide-to-estimates-in-exploratory-data-analysis
-https://ealizadeh.com/blog/neural-prophet-library
-https://ealizadeh.com/blog/cognitive-errors-art-of-thinking-clearly
-https://ealizadeh.com/blog/3-ways-to-add-images-to-your-jupyter-notebook
+ - [How to Publish Your Python Package with just 2 commands](https://ealizadeh.com/blog/how-to-publish-your-python-package-with-just-2-commands)
+ - [A Guide to Python Environment, Dependency and Package Management: Conda + Poetry](https://ealizadeh.com/blog/guide-to-python-env-pkg-dependency-using-conda-poetry)
+ - [Data Distribution vs. Sampling Distribution: What You Need to Know](https://ealizadeh.com/blog/statistics-data-vs-sampling-distribution)
+ - [MLxtend: A Python Library with Interesting Tools for Data Science Tasks](https://ealizadeh.com/blog/mlxtend-library-for-data-science)
+ - [A Guide to Metrics (Estimates) in Exploratory Data Analysis](https://ealizadeh.com/blog/guide-to-estimates-in-exploratory-data-analysis)
+ - [NeuralProphet: A Time-Series Modeling Python Library based on Neural-Networks](https://ealizadeh.com/blog/neural-prophet-library)
+ - [15 Cognitive Errors Every Analyst Must Know (+ Network Graph View)](https://ealizadeh.com/blog/cognitive-errors-art-of-thinking-clearly)
+ - [3 Ways to Add Images to Your Jupyter Notebook](https://ealizadeh.com/blog/3-ways-to-add-images-to-your-jupyter-notebook)
 <space>
  	 <a href="https://ealizadeh.com/blog" target="_blank"><img alt="Personal Blog" src="https://img.shields.io/badge/-Read%20more%20on%20my%20blog-brightgreen?style=for-the-badge" /></a>
 <hr>
 <div align="center">
-README.md last auto-generated Sun Mar 21 11:37:24 2021
+README.md last auto-generated Sun Mar 21 11:56:35 2021
 </div>
