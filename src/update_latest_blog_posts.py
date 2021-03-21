@@ -28,7 +28,11 @@ def update_latest_blog_posts_readme(blog_feed, readme_base, join_on):
 
     posts = []
     for count, post in enumerate(post_tags):
-        posts.append(MAIN_WEBSITE + post.get("href"))
+        post_url = MAIN_WEBSITE + post.get("href")
+        post_content = BeautifulSoup(requests.get(post_url).text, "lxml")
+        post_title = post_content.find('h1').text
+        posts.append(f' - [{post_title}]({post_url})')
+
         if count == NUM_POST:
             break
 
