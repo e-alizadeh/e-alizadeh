@@ -14,17 +14,21 @@ jobs:
       - name: 🍽️ Get working copy
         uses: actions/checkout@master
         with:
-          fetch-depth: 1                                                                 
+          fetch-depth: 1
+
       - name: 🐍 Set up Python 3.8                               
         uses: actions/setup-python@v2                               
         with:                                 
-          python-version: '3.8'                                                   
-      - name: 💿 Install BeautifulSoup & pytz
-        run: pip install beautifulsoup4 pytz
+          python-version: '3.8'
+
+      - name: 💿 Install requests & BeautifulSoup & pytz
+        run: pip install requests beautifulsoup4 pytz
+
       - name: 🍳 Update README
         run: |
           cd ${GITHUB_WORKSPACE}/src/
           python update_latest_blog_posts.py
+
       - name: 🚀 Deploy
         run: |
           git config user.name "${GITHUB_ACTOR}"
