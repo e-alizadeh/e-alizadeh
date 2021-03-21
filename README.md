@@ -34,10 +34,17 @@ I post frequently on my personal website, and on medium. You can follow me on:
 ---
 
 ## 📕 Latest Blog Posts
-
+https://ealizadeh.com/blog/how-to-publish-your-python-package-with-just-2-commands
+https://ealizadeh.com/blog/guide-to-python-env-pkg-dependency-using-conda-poetry
+https://ealizadeh.com/blog/statistics-data-vs-sampling-distribution
+https://ealizadeh.com/blog/mlxtend-library-for-data-science
+https://ealizadeh.com/blog/guide-to-estimates-in-exploratory-data-analysis
+https://ealizadeh.com/blog/neural-prophet-library
+https://ealizadeh.com/blog/cognitive-errors-art-of-thinking-clearly
+https://ealizadeh.com/blog/3-ways-to-add-images-to-your-jupyter-notebook
 <space>
  	 <a href="https://ealizadeh.com/blog" target="_blank"><img alt="Personal Blog" src="https://img.shields.io/badge/-Read%20more%20on%20my%20blog-brightgreen?style=for-the-badge" /></a>
 <hr>
 <div align="center">
-README.md last auto-generated Sun Mar 21 00:33:05 2021
+README.md last auto-generated Sun Mar 21 11:37:24 2021
 </div>
