@@ -38,7 +38,7 @@ def update_latest_blog_posts_readme(blog_feed, readme_base, join_on):
 
 if __name__ == "__main__":
     rss_title = "## 📕 Latest Blog Posts"
-    readme = Path.cwd().joinpath("README.md").read_text(encoding="utf8")
+    readme = Path("../README.md").read_text(encoding="utf8")
 
     html_content = requests.get(BLOG_FEED).text
     soup = BeautifulSoup(html_content, "lxml")
