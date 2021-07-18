@@ -34,6 +34,7 @@ I post frequently on my personal website, and on medium. You can follow me on:
 ---
 
 ## 📕 Latest Blog Posts
+ - [Hands-On dbt Tutorial for Data Transformation](https://ealizadeh.com/blog/dbt-tutorial)
  - [Step-by-Step Deployment of a Free PostgreSQL Database And Data Ingestion](https://ealizadeh.com/blog/deploy-postgresql-db-heroku)
  - [How to Publish Your Python Package with just 2 commands](https://ealizadeh.com/blog/how-to-publish-your-python-package-with-just-2-commands)
  - [A Guide to Python Environment, Dependency and Package Management: Conda + Poetry](https://ealizadeh.com/blog/guide-to-python-env-pkg-dependency-using-conda-poetry)
@@ -41,10 +42,9 @@ I post frequently on my personal website, and on medium. You can follow me on:
  - [MLxtend: A Python Library with Interesting Tools for Data Science Tasks](https://ealizadeh.com/blog/mlxtend-library-for-data-science)
  - [A Guide to Metrics (Estimates) in Exploratory Data Analysis](https://ealizadeh.com/blog/guide-to-estimates-in-exploratory-data-analysis)
  - [NeuralProphet: A Time-Series Modeling Python Library based on Neural-Networks](https://ealizadeh.com/blog/neural-prophet-library)
- - [15 Cognitive Errors Every Analyst Must Know (+ Network Graph View)](https://ealizadeh.com/blog/cognitive-errors-art-of-thinking-clearly)
 <space>
  	 <a href="https://ealizadeh.com/blog" target="_blank"><img alt="Personal Blog" src="https://img.shields.io/badge/-Read%20more%20on%20my%20blog-brightgreen?style=for-the-badge" /></a>
 <hr>
 <div align="center">
-README.md last auto-generated Wed Jul 14 00:29:48 2021
+README.md last auto-generated Sun Jul 18 00:29:32 2021
 </div>
