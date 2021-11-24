@@ -18,7 +18,9 @@ Here are some ideas to get you started:
 
 #### 🌱 I'm in Permanent Beta who loves and enjoys learning, improving and evolving...
 
+<!--
 - 🔭 I’m currently working on two Python packages [PyPocket](https://github.com/e-alizadeh/PyPocket) and [CallGraph4Py](https://github.com/e-alizadeh/pycallgraph).
+-->
 
 #### 📝 Digital Garden (my raw notes): <a href="https://notes.ealizadeh.com" target="_blank"><img alt="Notes" src="https://img.shields.io/badge/-digital%20notes-8672db?style=for-the-badge" /></a>
 
