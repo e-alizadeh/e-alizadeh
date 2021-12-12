@@ -36,6 +36,7 @@ I post frequently on my personal website, and on medium. You can follow me on:
 ---
 
 ## 📕 Latest Blog Posts
+ - [Visualize your Pandas Data Transformation using PandasTutor](https://ealizadeh.com/blog/pandas-tutor-tool)
  - [dbt for Data Transformation - A Hands-on Tutorial](https://ealizadeh.com/blog/dbt-tutorial)
  - [Step-by-Step Deployment of a Free PostgreSQL Database And Data Ingestion](https://ealizadeh.com/blog/deploy-postgresql-db-heroku)
  - [How to Publish Your Python Package with just 2 commands](https://ealizadeh.com/blog/how-to-publish-your-python-package-with-just-2-commands)
@@ -43,10 +44,9 @@ I post frequently on my personal website, and on medium. You can follow me on:
  - [Data Distribution vs. Sampling Distribution: What You Need to Know](https://ealizadeh.com/blog/statistics-data-vs-sampling-distribution)
  - [MLxtend: A Python Library with Interesting Tools for Data Science Tasks](https://ealizadeh.com/blog/mlxtend-library-for-data-science)
  - [A Guide to Metrics (Estimates) in Exploratory Data Analysis](https://ealizadeh.com/blog/guide-to-estimates-in-exploratory-data-analysis)
- - [NeuralProphet: A Time-Series Modeling Python Library based on Neural-Networks](https://ealizadeh.com/blog/neural-prophet-library)
 <space>
  	 <a href="https://ealizadeh.com/blog" target="_blank"><img alt="Personal Blog" src="https://img.shields.io/badge/-Read%20more%20on%20my%20blog-brightgreen?style=for-the-badge" /></a>
 <hr>
 <div align="center">
-README.md last auto-generated Tue Dec  7 23:31:49 2021
+README.md last auto-generated Sat Dec 11 23:31:26 2021
 </div>
