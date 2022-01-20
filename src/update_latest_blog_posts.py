@@ -1,3 +1,8 @@
+"""
+This script is inspired by the post "Auto-Updating Your Github Profile With Python" by Dylan Roy 
+available here https://towardsdatascience.com/auto-updating-your-github-profile-with-python-cde87b638168
+"""
+
 from pathlib import Path
 import datetime
 import pytz
