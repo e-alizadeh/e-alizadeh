@@ -34,6 +34,7 @@ I post frequently on my personal website, and on medium. You can follow me on:
 ---
 
 ## 📕 Latest Blog Posts
+ - [What K is in KNN and K-Means](https://ealizadeh.com/blog/knn-and-kmeans)
  - [Automate Your Workflow with GitHub Actions and Cron](https://ealizadeh.com/blog/automate-workflow-github-cron)
  - [Visualize your Pandas Data Transformation using PandasTutor](https://ealizadeh.com/blog/pandas-tutor-tool)
  - [dbt for Data Transformation - A Hands-on Tutorial](https://ealizadeh.com/blog/dbt-tutorial)
@@ -41,10 +42,9 @@ I post frequently on my personal website, and on medium. You can follow me on:
  - [How to Publish Your Python Package with just 2 commands](https://ealizadeh.com/blog/how-to-publish-your-python-package-with-just-2-commands)
  - [A Guide to Python Environment, Dependency and Package Management: Conda + Poetry](https://ealizadeh.com/blog/guide-to-python-env-pkg-dependency-using-conda-poetry)
  - [Data Distribution vs. Sampling Distribution: What You Need to Know](https://ealizadeh.com/blog/statistics-data-vs-sampling-distribution)
- - [MLxtend: A Python Library with Interesting Tools for Data Science Tasks](https://ealizadeh.com/blog/mlxtend-library-for-data-science)
 <space>
  	 <a href="https://ealizadeh.com/blog" target="_blank"><img alt="Personal Blog" src="https://img.shields.io/badge/-Read%20more%20on%20my%20blog-brightgreen?style=for-the-badge" /></a>
 <hr>
 <div align="center">
-README.md last auto-generated Sun Apr 10 00:31:00 2022
+README.md last auto-generated Wed Apr 13 00:33:11 2022
 </div>
