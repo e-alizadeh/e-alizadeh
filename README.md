@@ -44,6 +44,11 @@ I post frequently on my personal website, and on medium. You can follow me on:
  - [Data Distribution vs. Sampling Distribution: What You Need to Know](https://ealizadeh.com/blog/statistics-data-vs-sampling-distribution)
 <space>
  	 <a href="https://ealizadeh.com" target="_blank"><img alt="Personal Blog" src="https://img.shields.io/badge/-Read%20more%20on%20my%20blog-brightgreen?style=for-the-badge" /></a>
+ 
+<div align="center">
+ <a href="https://www.buymeacoffee.com/ealizadeh" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+</div>
+ 
 <hr>
 <div align="center">
 README.md last auto-generated Sun Oct  9 01:07:33 2022
