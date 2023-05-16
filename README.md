@@ -34,22 +34,17 @@ I post frequently on my personal website, and on medium. You can follow me on:
 ---
 
 ## 📕 Latest Blog Posts
- - [What K is in KNN and K-Means](https://ealizadeh.com/blog/knn-and-kmeans)
- - [Automate Your Workflow with GitHub Actions and Cron](https://ealizadeh.com/blog/automate-workflow-github-cron)
- - [Visualize your Pandas Data Transformation using PandasTutor](https://ealizadeh.com/blog/pandas-tutor-tool)
- - [dbt for Data Transformation - A Hands-on Tutorial](https://ealizadeh.com/blog/dbt-tutorial)
- - [Step-by-Step Deployment of a Free PostgreSQL Database And Data Ingestion](https://ealizadeh.com/blog/deploy-postgresql-db-heroku)
- - [How to Publish Your Python Package with just 2 commands](https://ealizadeh.com/blog/how-to-publish-your-python-package-with-just-2-commands)
- - [A Guide to Python Environment, Dependency and Package Management: Conda + Poetry](https://ealizadeh.com/blog/guide-to-python-env-pkg-dependency-using-conda-poetry)
- - [Data Distribution vs. Sampling Distribution: What You Need to Know](https://ealizadeh.com/blog/statistics-data-vs-sampling-distribution)
+ - [Taming Text with string2string: A Powerful Python Library for String-to-String Algorithms](https://ealizadeh.com/blog/tutorial-string2string/)
+ - [The ABCs of Differential Privacy](https://ealizadeh.com/blog/abc-of-differential-privacy/)
+ - [What K is in KNN and K-Means](https://ealizadeh.com/blog/knn-and-kmeans/)
+ - [Automate Your Workflow with GitHub Actions and Cron](https://ealizadeh.com/blog/automate-workflow-github-cron/)
+ - [Visualize your Pandas Data Transformation using PandasTutor](https://ealizadeh.com/blog/pandas-tutor-tool/)
+ - [MLxtend: A Python Library with Interesting Tools for Data Science Tasks](https://ealizadeh.com/blog/mlxtend-library-for-data-science/)
+ - [Step-by-Step Deployment of a Free PostgreSQL Database And Data Ingestion](https://ealizadeh.com/blog/deploy-postgresql-db-heroku/)
+ - [dbt for Data Transformation - A Hands-on Tutorial](https://ealizadeh.com/blog/dbt-tutorial/)
 <space>
- 	 <a href="https://ealizadeh.com" target="_blank"><img alt="Personal Blog" src="https://img.shields.io/badge/-Read%20more%20on%20my%20blog-brightgreen?style=for-the-badge" /></a>
- 
-<div align="center">
- <a href="https://www.buymeacoffee.com/ealizadeh" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
-</div>
- 
+ 	 <a href="https://ealizadeh.com/blog" target="_blank"><img alt="Personal Blog" src="https://img.shields.io/badge/-Read%20more%20on%20my%20blog-brightgreen?style=for-the-badge" /></a>
 <hr>
 <div align="center">
-README.md last auto-generated Sun Oct  9 01:07:33 2022
+README.md last auto-generated Mon May 15 22:35:27 2023
 </div>
