@@ -43,7 +43,7 @@ I post frequently on my personal website, and on medium. You can follow me on:
  - [Step-by-Step Deployment of a Free PostgreSQL Database And Data Ingestion](https://ealizadeh.com/blog/deploy-postgresql-db-heroku/)
  - [dbt for Data Transformation - A Hands-on Tutorial](https://ealizadeh.com/blog/dbt-tutorial/)
 <space>
- 	 <a href="https://ealizadeh.com/blog" target="_blank"><img alt="Personal Blog" src="https://img.shields.io/badge/-Read%20more%20on%20my%20blog-brightgreen?style=for-the-badge" /></a>
+ 	 <a href="https://ealizadeh.com" target="_blank"><img alt="Personal Blog" src="https://img.shields.io/badge/-Read%20more%20on%20my%20blog-brightgreen?style=for-the-badge" /></a>
 <hr>
 <div align="center">
 README.md last auto-generated Mon May 15 22:35:27 2023
