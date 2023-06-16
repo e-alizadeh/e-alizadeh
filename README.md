@@ -43,8 +43,8 @@ I post frequently on my personal website, and on medium. You can follow me on:
  - [Visualize your Pandas Data Transformation using PandasTutor](https://ealizadeh.com/blog/pandas-tutor-tool/)
  - [MLxtend: A Python Library with Interesting Tools for Data Science Tasks](https://ealizadeh.com/blog/mlxtend-library-for-data-science/)
 <space>
- 	 <a href="https://ealizadeh.com" target="_blank"><img alt="Personal Blog" src="https://img.shields.io/badge/-Read%20more%20on%20my%20blog-brightgreen?style=for-the-badge" /></a>
+ 	 <a href="https://ealizadeh.com/blog" target="_blank"><img alt="Personal Blog" src="https://img.shields.io/badge/-Read%20more%20on%20my%20blog-brightgreen?style=for-the-badge" /></a>
 <hr>
 <div align="center">
-README.md last generated Fri June 16 00:21 2023
+README.md last auto-generated Fri Jun 16 00:30:17 2023
 </div>
