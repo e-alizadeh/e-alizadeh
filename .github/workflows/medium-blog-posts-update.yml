@@ -21,8 +21,8 @@ jobs:
         with:                                 
           python-version: '3.8'
 
-      - name: 💿 Install requests & BeautifulSoup & pytz $ LXML parser
-        run: pip install requests beautifulsoup4 pytz lxml
+      - name: 💿 Install feedparser & pytz 
+        run: pip install feedparser pytz 
 
       - name: 🍳 Update README
         run: |
