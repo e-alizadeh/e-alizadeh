@@ -34,17 +34,10 @@ I post frequently on my personal website, and on medium. You can follow me on:
 ---
 
 ## 📕 Latest Blog Posts
- - [Scikit-LLM: Bridging the Gap Between LLM and Scikit-learn](https://ealizadeh.com/blog/tutorial-scikit-llm/)
- - [Python’s itertools: A Hidden Gem for Efficient Looping](https://ealizadeh.com/blog/itertools/)
- - [Taming Text with string2string: A Powerful Python Library for String-to-String Algorithms](https://ealizadeh.com/blog/tutorial-string2string/)
- - [The ABCs of Differential Privacy](https://ealizadeh.com/blog/abc-of-differential-privacy/)
- - [What K is in KNN and K-Means](https://ealizadeh.com/blog/knn-and-kmeans/)
- - [Automate Your Workflow with GitHub Actions and Cron](https://ealizadeh.com/blog/automate-workflow-github-cron/)
- - [Visualize your Pandas Data Transformation using PandasTutor](https://ealizadeh.com/blog/pandas-tutor-tool/)
- - [MLxtend: A Python Library with Interesting Tools for Data Science Tasks](https://ealizadeh.com/blog/mlxtend-library-for-data-science/)
+
 <space>
  	 <a href="https://ealizadeh.com/blog" target="_blank"><img alt="Personal Blog" src="https://img.shields.io/badge/-Read%20more%20on%20my%20blog-brightgreen?style=for-the-badge" /></a>
 <hr>
 <div align="center">
-README.md last auto-generated Sun Jul  9 00:26:24 2023
+README.md last auto-generated Wed Jul 12 00:26:53 2023
 </div>
